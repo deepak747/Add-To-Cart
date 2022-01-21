@@ -1,0 +1,15 @@
+.card{
+    height: 60vh;
+    margin: 25px;
+    padding: 45px;
+}
+
+  .center{
+      position: absolute;
+      /* left: 50%; */
+          right:40%;
+          bottom: 25%;
+       text-align: center; 
+  }
+
+       
